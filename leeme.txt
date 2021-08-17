@@ -1,0 +1,4 @@
+Este repositorio es para repasar el curso de Git Hub de Platzi
+en la rama pagina hice git clone de tu proyecto
+agrego una segunda linea 
+
