@@ -1,8 +1,3 @@
 creacion pagina
-
-<<<<<<< HEAD
 Ahora estoy en master 
-=======
 
-ahora estoy en la rama pagina
->>>>>>> pagina
